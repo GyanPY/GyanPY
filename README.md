@@ -19,3 +19,5 @@ To use the count script Follow the below steps
 
 	Finished Running of Script
 	+++++++++++++++++++
+
+Note-> This might show varying outout when we have blacklisting in place. In that case "isWhitelisted" will be false and the script will still capture the output for those metrics.

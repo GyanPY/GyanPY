@@ -1,8 +1,9 @@
 To use the count script Follow the below steps
 1- Download the meta file to the local machine
 2- Run the above script by passing the filename or full path
-Example->
-./ams-metrics-whitelist.sh /Users/xxx/Documents/xxxxx/meta-out1.json 
+	
+	Example->
+	./ams-metrics-whitelist.sh /Users/xxx/Documents/xxxxx/meta-out1.json 
 
 	The output will be like below.
 	+++++++++++++++++++
